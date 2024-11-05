@@ -1,3 +1,4 @@
+// Всем привет!
 #include <iostream>
 #include <cmath>
 #include <iomanip>
