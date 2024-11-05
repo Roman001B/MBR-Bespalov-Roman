@@ -33,6 +33,10 @@ void heun(double x0, double y0, double h, int n, double a, double k) {
     }
 }
 
+int HelloWorld() {
+    cout << "Hello World\n";
+}
+
 int main() {
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
