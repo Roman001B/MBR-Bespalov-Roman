@@ -5,6 +5,8 @@
 
 using namespace std;
 
+// Бейшеналиев Марат изменение
+
 // Функция для вычисления производной y'
 double f(double x, double y, double a, double k) {
     return (a - x + pow(y, 2)) / (1 + k * y + pow(x, 2));
